@@ -1,5 +1,3 @@
----
-
 ## 2. Ideas (Prioritized)
 
 ### CRITICAL (Must Implement)

@@ -1,5 +1,3 @@
----
-
 ## F. "Fake It License" Poster
 
 **Title: You Have Permission To...**
@@ -90,3 +88,4 @@ If YES → Build it properly.
 
 Print this on bright yellow or orange paper. Post near every workspace.
 
+```
